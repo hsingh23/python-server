@@ -1,0 +1,12 @@
+Non concurrent 1b 0.00187752246857
+4 connections at once 1b 0.0087605714798
+Non concurrent 100b 0.00321846008301
+4 connections at once 100b 0.011474442482
+Non concurrent 1000b 0.00291590690613
+4 connections at once 1000b 0.0114382743835
+Non concurrent 10000b 0.00294277667999
+4 connections at once 10000b 0.0118823051453
+Non concurrent 100000b 0.00309200286865
+4 connections at once 100000b 0.0114208698273
+Non concurrent 1000000b 0.00985703468323
+4 connections at once 1000000b 0.0364764690399
